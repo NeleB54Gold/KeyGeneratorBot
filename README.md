@@ -6,6 +6,8 @@
 
 Create your own Key Generator Bot on Telegram!
 
+This bot generate random keys of few services, obviously the keys cannot be used for the indicated service, but they can be used to create examples or other things.
+
 ### How to setup and use NeleBot X Framework
 
 See the docs [here](https://neleb54gold.github.io/NeleBotX/).
