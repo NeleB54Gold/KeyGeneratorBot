@@ -12,6 +12,12 @@ This bot generate random keys of few services, obviously the keys cannot be used
 
 See the docs [here](https://neleb54gold.github.io/NeleBotX/).
 
+## About this Bot
+
+[🤖 Try @KeyGeneratorBot](https://t.me/KeyGeneratorBot)
+[⭐️ Rate on @BotsArchive](https://t.me/BotsArchive/129)
+[📲 Help with Translations](https://nelebots.oneskyapp.com/collaboration/translate/project/project/169330/)
+
 ## About NeleBots
 
 [📢 Telegram Channel](https://t.me/NeleBots)
