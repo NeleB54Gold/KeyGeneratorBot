@@ -12,6 +12,8 @@ This bot generate random keys of few services, obviously the keys cannot be used
 
 See the docs [here](https://neleb54gold.github.io/NeleBotX/).
 
+For the translations you can use the translations.json file, you can use redis for more speed, and if you want you can set up the OneSkyApp API to update automatically the translations!
+
 ## About this Bot
 
 [🤖 Try @KeyGeneratorBot](https://t.me/KeyGeneratorBot)
